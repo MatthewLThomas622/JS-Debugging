@@ -103,11 +103,11 @@ while (a > b) {
 
 //#9: The next block of code hides two syntax errors. Run the code as-is to find the mistakes.
 let text = "";
-let i = 0;
+let j = 0;
 do {
-  text += i + "<br>";
-  i++;
-} while (i < 5);
+  text += j + "<br>";
+  j++;
+} while (j < 5);
 
 
 //#10: The next block of code hides three  logical error. Run the code as-is to find the mistakes.
