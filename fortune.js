@@ -11,7 +11,9 @@ function tellFortune() {
         "You will win the lottery",
         "You will get a promotion",
     ];
-var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
-
-document.body.innerHTML = randomItem;
+for(arr of myArray) {
+    var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
+}
+document.getElementById("message").innerHTML = randomItem;
+// document.body.innerHTML = randomItem;
 }
