@@ -1,14 +1,14 @@
 function tellFortune() {
     let myArray = [
-        "You will succeed in all things",
-        "You will succeed in most things",
-        "You will succeed in some things",
-        "You will succeed in a few things",
-        "You will fail in a few things",
-        "You will fail in some things",
-        "You will fail in most things",
-        "You will fail in all things",
+        "You will be recognized for your incredible work ethic",
+        "You will rekindle and old friendship",
+        "You will reignite an old flame",
         "You will win the lottery",
+        "You will uncover a lost civilization",
+        "You will make first contact",
+        "You will get to compete on a game show",
+        "You will fail",
+        "You will land your dream job",
         "You will get a promotion",
     ];
 for(arr of myArray) {
